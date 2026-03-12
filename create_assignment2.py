@@ -172,7 +172,7 @@ labels = ["Subject", "Topic", "Submitted By", "Roll No.", "Class / Section",
           "Submitted To", "Date"]
 values = ["General Psychology",
           "Gestalt Laws of Perceptual Organization",
-          "________________________",
+          "______________________ __",
           "________________________",
           "________________________",
           "________________________",
